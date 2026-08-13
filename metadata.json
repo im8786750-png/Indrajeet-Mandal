@@ -1,0 +1,6 @@
+{
+  "name": "Your Medicine Zone Sahibnagar",
+  "description": "Online medicine catalog and WhatsApp ordering store for Your Medicine Zone, Sahibnagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
